@@ -2,6 +2,7 @@
 Using multiple API calls to gather global weather data for 500 cities, and graph findings. Completed for U of O Data Analytics Boot Camp.
 
 DISCLAIMER
+
 So it turns out my python environments were not setup correctly to accomodate the widgets and I was using Jupyter Lab instead of Notebook which it turns out is even more dificult with the widgets. So I spent about 6 hours today trying to get the original gmaps import to work; wasn't able to until I finally switched to Notebook. However, at that point I had done so much damage to my environments trying to fix Lab that I couldn't even run pip commands anymore. I'm going to redo my environments over the next few days, however I was not able to complete this assignment in its entirety. 
 
 
