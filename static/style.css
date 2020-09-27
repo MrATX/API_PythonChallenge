@@ -32,7 +32,7 @@
     text-align:center;
   }
 
-  .col-md-4{
+  .col-md-3{
     background-color: black;
     border:none;
   }
@@ -43,5 +43,5 @@
 
   #analysispara{
     margin:25px;
-    font-size: larger;
+    font-size: x-large;
   }
